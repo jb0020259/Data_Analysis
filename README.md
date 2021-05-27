@@ -154,8 +154,8 @@ Data transformation usually involves:
 [Chart Type Selection](https://www.data-to-viz.com/)
 
 # Data Viz Inspirations
-[Beautiful News](https://informationisbeautiful.net/beautifulnews/)
-[Information is beautiful](https://informationisbeautiful.net/)
-[Viz Catalogue](https://datavizcatalogue.com/#google_vignette)
-[25 Best Viz](https://visme.co/blog/best-data-visualizations/)
-[10 Data Viz Blogs](https://www.tableau.com/learn/articles/best-data-visualization-blogs)
+- [Beautiful News](https://informationisbeautiful.net/beautifulnews/)  
+- [Information is beautiful](https://informationisbeautiful.net/)  
+- [Viz Catalogue](https://datavizcatalogue.com/#google_vignette)  
+- [25 Best Viz](https://visme.co/blog/best-data-visualizations/)  
+- [10 Data Viz Blogs](https://www.tableau.com/learn/articles/best-data-visualization-blogs)  
