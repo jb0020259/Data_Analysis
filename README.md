@@ -150,6 +150,12 @@ Data transformation usually involves:
 # ‘The McCandless Method’ of Data Presentation
 ![Link](mccandless.png)
 
+# Kaiser Fung’s Junk Charts Trifecta Checkup
+![Link](https://junkcharts.typepad.com/junk_charts/junk-charts-trifecta-checkup-the-definitive-guide.html)
+
+# How to make best data visualization?
+![](Data_Viz_Design_Principles.png)
+
 # How to select best chart type?
 [Chart Type Selection](https://www.data-to-viz.com/)
 [Video Part 1](https://www.youtube.com/watch?v=C07k0euBpr8&ab_channel=365DataScience)
