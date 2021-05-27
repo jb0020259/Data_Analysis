@@ -151,9 +151,9 @@ Data transformation usually involves:
 ![Link](mccandless.png)
 
 # Kaiser Fung’s Junk Charts Trifecta Checkup
-![Link](https://junkcharts.typepad.com/junk_charts/junk-charts-trifecta-checkup-the-definitive-guide.html)
+![Link](Trifecta.png)
 
-# How to make best data visualization?
+# How to make successful data visualization?
 ![](Data_Viz_Design_Principles.png)
 
 # How to select best chart type?
