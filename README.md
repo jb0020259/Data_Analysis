@@ -103,3 +103,6 @@ Minimizing downtime caused by machine failure is an example of a problem requiri
 
 # How to gather data for doing analysis?
 ![](Quantitative_vs_Qualitative_Data_Tools.png)
+
+# Data Modelling Comparison
+[Data Modelling](https://www.1keydata.com/datawarehousing/data-modeling-levels.html)
