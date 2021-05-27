@@ -108,7 +108,7 @@ Minimizing downtime caused by machine failure is an example of a problem requiri
 [Data Modelling](https://www.1keydata.com/datawarehousing/data-modeling-levels.html)
 
 # What is the difference between structured and unstructured data?
-![](Structured_Data_vs_Unstructured_Data.png)
+![](Structured_Data_vs_Unstructured_Data.jpg)
 
 # How to transform data?
 Data transformation usually involves:
