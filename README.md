@@ -145,3 +145,17 @@ Data transformation usually involves:
 - Misleading variable labels (columns): Did you name your columns meaningfully?
 - Truncated data: Did you check for truncated or missing data that needs correction?
 - Business Logic: Did you check that the data makes sense given your knowledge of the business? 
+
+
+# ‘The McCandless Method’ of Data Presentation
+![Link](mccandless.png)
+
+# How to select best chart type?
+[Chart Type Selection](https://www.data-to-viz.com/)
+
+# Data Viz Inspirations
+[Beautiful News](https://informationisbeautiful.net/beautifulnews/)
+[Information is beautiful](https://informationisbeautiful.net/)
+[Viz Catalogue](https://datavizcatalogue.com/#google_vignette)
+[25 Best Viz](https://visme.co/blog/best-data-visualizations/)
+[10 Data Viz Blogs](https://www.tableau.com/learn/articles/best-data-visualization-blogs)
