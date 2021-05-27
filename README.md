@@ -99,3 +99,6 @@ Minimizing downtime caused by machine failure is an example of a problem requiri
 
 # How to ask SMART questions?
 ![](SMART.png)
+
+# How to gather data for doing analysis?
+![](Quantitative_vs_Qualitative_Data_Tools.png)
