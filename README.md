@@ -75,6 +75,7 @@ These six steps can help you to break the data analysis process into smaller, ma
 
 # What is the difference between different Data Analysis Roles?
 ![](Data_Analyst_vs_Data_Scientists_vs_Data_Specialists.png)
+![](AI_ML_DA.png)
 
 # What are the different types of problems data analysis solve?
 ## Making predictions 
