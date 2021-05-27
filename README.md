@@ -1,4 +1,4 @@
-# Data Analysis Steps
+# What are the different steps of doing Data Analysis?
 ![](Data_Analysis_Steps.png)  
 
 ## Step 1: Ask  
@@ -73,5 +73,5 @@ These six steps can help you to break the data analysis process into smaller, ma
 1. [R](https://www.rstudio.com/resources/cheatsheets/)  
 2. [SQL](https://www.sqltutorial.org/sql-cheat-sheet/)  
 
-# Data Analysis Roles
+# What is the difference between different Data Analysis Roles?
 ![](Data_Analyst_vs_Data_Scientists_vs_Data_Specialists.png)
