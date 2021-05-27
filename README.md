@@ -157,6 +157,7 @@ Data transformation usually involves:
 ![](Data_Viz_Design_Principles.png)
 
 # How to select best chart type?
+[Guidelines](How_To_Choose.pdf)
 [Chart Type Selection](https://www.data-to-viz.com/)
 [Video Part 1](https://www.youtube.com/watch?v=C07k0euBpr8&ab_channel=365DataScience)
 [Video Part 2](https://www.youtube.com/watch?v=qGaIB-bRn-A&ab_channel=365DataScience)
