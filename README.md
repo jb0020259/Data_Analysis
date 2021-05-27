@@ -109,3 +109,17 @@ Minimizing downtime caused by machine failure is an example of a problem requiri
 
 # What is the difference between structured and unstructured data?
 ![](Structured_Data_vs_Unstructured_Data.png)
+
+# How to transform data?
+Data transformation usually involves:
+
+- Adding, copying, or replicating data 
+- Deleting fields or records 
+- Standardizing the names of variables
+- Renaming, moving, or combining columns in a database
+- Joining one set of data with another
+- Saving a file in a different format. For example, saving a spreadsheet as a comma separated values (CSV) file.
+
+# How to handle data issues?
+![](Data_Issues.png)
+
