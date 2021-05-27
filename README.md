@@ -96,3 +96,6 @@ A third-party logistics company working with another company to get shipments de
 
 ## Finding patterns
 Minimizing downtime caused by machine failure is an example of a problem requiring analysts to find patterns in data. For example, by analyzing maintenance data, they might discover that most failures happen if regular maintenance is delayed by more than a 15-day window. 
+
+# How to ask SMART questions?
+![](SMART.png)
