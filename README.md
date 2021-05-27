@@ -123,3 +123,13 @@ Data transformation usually involves:
 # How to handle data issues?
 ![](Data_Issues.png)
 
+# How to calculate sample size for the data analysis?
+[Sample Size Calculator](https://www.surveymonkey.com/mp/sample-size-calculator/)
+
+# What is dirty data?
+![](Dirty_Data.png)
+
+# What are the common pitfalls in cleaning the dirty data?
+![](Data_Cleaning_Errors.png)
+
+
